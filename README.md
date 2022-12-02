@@ -1,3 +1,3 @@
 # demo 
 
-andom description.
+random description.
